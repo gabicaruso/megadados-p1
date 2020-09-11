@@ -7,6 +7,7 @@
 Criação de um microsserviço de lista de tarefas que deverá permitir inicialmente apenas gerenciar tarefas em uma lista global:
   -  Criar uma tarefa
     - A tarefa tem uma breve descrição e começa como não-concluida
+    
   - Alterar a descrição de uma tarefa
   - Marcar uma tarefa como concluida, ou marcá-la novamente como não-concluida
   - Remover uma tarefa
